@@ -19,3 +19,5 @@ The dataset used in this project is [International airline passengers](https://w
 Comparing the time series models, Prophet performed significantly better than Auto ARIMA in forecasting the International airline passengers with the lowest RMSE. There is a clear seasonality pattern with a spike in the middle of the year (Jun-July) and Prophet has succesfully captured this pattern as seen in the component graph. However, this seasonality is not a constant additive factor, rather it grows with the trend i.e. multiplicative seasonality. Prophet can model multiplicative seasonality and thus produce impressive results in this dataset. 
 
 If you have any feedback for this project, feel free to contact me via my [LinkedIn](https://www.linkedin.com/in/limchiahooi) or [GitHub Pages](https://limchiahooi.github.io).
+
+![International airline passengers](passengers.png)

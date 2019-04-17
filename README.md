@@ -20,4 +20,14 @@ Comparing the time series models, Prophet performed significantly better than Au
 
 If you have any feedback for this project, feel free to contact me via my [LinkedIn](https://www.linkedin.com/in/limchiahooi) or [GitHub Pages](https://limchiahooi.github.io).
 
-![International airline passengers](passengers.png)
+---
+
+![International Airline Passengers](passengers.png)
+![International Airline Passengers by Year](by_year.png)
+![Additive Seasonality](additive_seasonality.png)
+![Multiplicative Seasonality](multiplicative_seasonality.png)
+![Auto ARIMA](auto_arima.png)
+![Prophet (Additive Seasonality)](prophet_as.png)
+![Prophet (Additive Seasonality)](components_as.png)
+![Prophet (Multiplicative Seasonality)](prophet_ms.png)
+![Prophet (Multiplicative Seasonality)](components_ms.png)
